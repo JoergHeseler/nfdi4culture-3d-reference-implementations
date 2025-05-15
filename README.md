@@ -10,6 +10,7 @@
 ## Validators
 
 - [DAE Validator for Archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
+- [E57 Validator for Archivematica](https://github.com/JoergHeseler/e57-validator-for-archivematica)
 - [glTF Validator for Archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
 - [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
 - [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
