@@ -11,6 +11,8 @@
 
 - [DAE Validator for Archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
 - [glTF Validator for Archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
+- [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
+- [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
 
 ## Normalizers
 - [STL Cleaner](https://github.com/JoergHeseler/stl-cleaner)
@@ -19,5 +21,3 @@
 - [E57 Metadata Extractor for Archivematica](https://github.com/JoergHeseler/e57-metadata-extractor-for-archivematica)
 - [glTF Metadata Extractor for Archivematica](https://github.com/JoergHeseler/gltf-metadata-extractor-for-archivematica)
 - [STL Metadata Extractor for Archivematica](https://github.com/JoergHeseler/stl-metadata-extractor-for-archivematica)
-- [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
-- [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
