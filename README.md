@@ -5,7 +5,7 @@
 - [Mesh Samples for Preservation Testing](https://github.com/JoergHeseler/mesh-samples-for-preservation-testing)
 - [Point Cloud Samples for Digital Preservation Testing](https://github.com/JoergHeseler/point-cloud-samples-for-preservation-testing)
 
-### Format Correction Tools
+## Format Correction Tools
 - [STL Cleaner](https://github.com/JoergHeseler/stl-cleaner)
 
 ## Format Extensions for Archivematica
