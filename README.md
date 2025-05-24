@@ -5,6 +5,10 @@
 - [Mesh Samples for Preservation Testing](https://github.com/JoergHeseler/mesh-samples-for-preservation-testing)
 - [Point Cloud Samples for Digital Preservation Testing](https://github.com/JoergHeseler/point-cloud-samples-for-preservation-testing)
 
+## SIP Example with 3D Data
+
+- [SIP Example: 801878_1714646941_Kakadu]([https://github.com/JoergHeseler/](https://github.com/JoergHeseler/sip-example-801878_1714646941_Kakadu/tree/main))
+
 ## Format Correction Tools
 - [STL Cleaner](https://github.com/JoergHeseler/stl-cleaner)
 
