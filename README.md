@@ -22,7 +22,6 @@
 - [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
 - [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
 
-
 ### Metadata Extractors / Characterizers
 - [E57 Metadata Extractor for Archivematica](https://github.com/JoergHeseler/e57-metadata-extractor-for-archivematica)
 - [glTF Metadata Extractor for Archivematica](https://github.com/JoergHeseler/gltf-metadata-extractor-for-archivematica)
@@ -31,3 +30,7 @@
 ## SIP Example with 3D Data
 
 - [SIP Example: 999999999_111111111111111_Kakadu](https://github.com/JoergHeseler/sip-example-999999999_111111111111111_Kakadu)
+
+## Guideline
+
+-  [Digitalisierung und Langzeitarchivierung von Porzellanfiguren für ihre Reproduktion (Digitisation and Digital Preservation of Porcelain Figures for Their Reproduction)](https://doi.org/10.5281/zenodo.15481637) (WORK IN PROGRESS)
