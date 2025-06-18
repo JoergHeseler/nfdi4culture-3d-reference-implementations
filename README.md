@@ -31,6 +31,6 @@
 
 - [SIP Example: 999999999_111111111111111_Kakadu](https://github.com/JoergHeseler/sip-example-999999999_111111111111111_Kakadu)
 
-## Guideline
+## Related Guideline
 
 -  [Digitalisierung und Langzeitarchivierung von Porzellanfiguren für ihre Reproduktion (Digitisation and Digital Preservation of Porcelain Figures for Their Reproduction)](https://doi.org/10.5281/zenodo.15481637) (German only, COMING SOON)
