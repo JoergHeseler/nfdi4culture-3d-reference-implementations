@@ -33,4 +33,4 @@
 
 ## Guideline
 
--  [Digitalisierung und Langzeitarchivierung von Porzellanfiguren für ihre Reproduktion (Digitisation and Digital Preservation of Porcelain Figures for Their Reproduction)](https://doi.org/10.5281/zenodo.15481637) (WORK IN PROGRESS)
+-  [Digitalisierung und Langzeitarchivierung von Porzellanfiguren für ihre Reproduktion (Digitisation and Digital Preservation of Porcelain Figures for Their Reproduction)](https://doi.org/10.5281/zenodo.15481637) (COMING SOON)
