@@ -29,7 +29,7 @@
 
 ## SIP Example with 3D Data
 
-- [SIP Example: 999999999_111111111111111_Kakadu](https://github.com/JoergHeseler/sip-example-999999999_111111111111111_Kakadu)
+- [SIP Example: 999999999_111111111111111](https://github.com/JoergHeseler/sip-example-999999999_111111111111111)
 
 ## Related Guideline
 
