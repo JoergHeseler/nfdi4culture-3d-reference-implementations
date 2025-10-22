@@ -37,4 +37,4 @@
 -  [Archive-Friendly 3D Formats](https://doi.org/10.5281/zenodo.17376982) (COMING SOON)
 -  [3D-Digitalisierung und Langzeitarchivierung – Umfrageergebnisse aus der NFDI4Culture Community](https://doi.org/10.5281/zenodo.8033535)
 -  [3D Digitisation and Preservation – Survey Results from the NFDI4Culture Community](https://doi.org/10.5281/zenodo.8033412)  
--  [3D Digitisation and Preservation – Survey Results from the NFDI4Culture Community - Dataset](https://doi.org/10.5281/zenodo.17419651)
+-  [3D Digitisation and Preservation – Survey Results from the NFDI4Culture Community – Common Dataset](https://doi.org/10.5281/zenodo.17419651)
