@@ -31,10 +31,9 @@
 
 - [SIP Example: 999999999_111111111111111](https://github.com/JoergHeseler/sip-example-999999999_111111111111111)
 
-## Related Guideline
+## Related Publications
 
--  [Digitalisierung und Langzeitarchivierung von Porzellanfiguren für ihre Reproduktion (Digitization and Digital Preservation of Porcelain Figures for Their Reproduction)](https://doi.org/10.5281/zenodo.15481637) (German only, COMING SOON)
-
-## Related Dataset
-
+-  [Digitalisierung und Langzeitarchivierung von Porzellanfiguren für ihre Reproduktion (Digitization and Digital Preservation of Porcelain Figures for Their Reproduction)](https://doi.org/10.5281/zenodo.15481637) (German only, COMING 
 -  [Archive-Friendly 3D Formats](https://doi.org/10.5281/zenodo.17376982) (COMING SOON)
+-  ADD Survey 3D
+-  ADD Dataset 3D
