@@ -33,7 +33,7 @@
 
 ## Related Publications
 
--  [Digitalisierung und Langzeitarchivierung von Porzellanfiguren für ihre Reproduktion (Digitization and Digital Preservation of Porcelain Figures for Their Reproduction)](https://doi.org/10.5281/zenodo.15481637) (German only)
+-  [Digitalisierung und Langzeitarchivierung von Porzellanfiguren für ihre Reproduktion (Digitization and Digital Preservation of Porcelain Figures for Their Reproduction)](https://doi.org/10.5281/zenodo.15481636) (German only)
 -  [Archive-Friendly 3D Formats](https://doi.org/10.5281/zenodo.17376982)
 -  [3D-Digitalisierung und Langzeitarchivierung – Umfrageergebnisse aus der NFDI4Culture Community](https://doi.org/10.5281/zenodo.8033535)
 -  [3D Digitisation and Preservation – Survey Results from the NFDI4Culture Community](https://doi.org/10.5281/zenodo.8033412)  
